@@ -1,2 +1,2 @@
-# azure-ops-toolkit
+# Azure-Ops-Toolkit
 PowerShell scripts for Azure operations: waste detection, inventory, tag governance, and VM reporting
